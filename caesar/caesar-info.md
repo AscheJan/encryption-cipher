@@ -2,7 +2,6 @@
 
 Die Caesar-Verschlüsselung ist eine der ältesten bekannten Verschlüsselungsmethoden. Sie ist jedoch sehr unsicher und kann sogar ohne Computerunterstützung schnell geknackt werden.
 
-![info](/home/aj/SynologyDrive/visualCode/verschluesselung/caesar/info.png)
 
 ## Vorgehen zum Verschlüsseln
 
